@@ -3,6 +3,4 @@ type: attach
 name: pdf00008.pdf
 description: pdf00008 generated asset
 group: free
-categories: 
-  - green_category
-  - blue_category
+categories: []

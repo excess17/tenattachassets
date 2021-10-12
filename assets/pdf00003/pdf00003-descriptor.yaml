@@ -3,4 +3,5 @@ type: attach
 name: pdf00003.pdf
 description: pdf00003 generated asset
 group: free
-categories: []
+categories: 
+  - blue_category

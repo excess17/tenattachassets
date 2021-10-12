@@ -4,15 +4,15 @@ bundle-type: system-level-bundle
 components:
   fragments: []
   assets:
-      - assets/pdf00000/pdf00000-descriptor.yaml
-      - assets/pdf00001/pdf00001-descriptor.yaml
-      - assets/pdf00002/pdf00002-descriptor.yaml
-      - assets/pdf00003/pdf00003-descriptor.yaml
-      - assets/pdf00004/pdf00004-descriptor.yaml
-      - assets/pdf00005/pdf00005-descriptor.yaml
-      - assets/pdf00006/pdf00006-descriptor.yaml
-      - assets/pdf00007/pdf00007-descriptor.yaml
-      - assets/pdf00008/pdf00008-descriptor.yaml
-      - assets/pdf00009/pdf00009-descriptor.yaml
+    - assets/pdf00000/pdf00000-descriptor.yaml
+    - assets/pdf00001/pdf00001-descriptor.yaml
+    - assets/pdf00002/pdf00002-descriptor.yaml
+    - assets/pdf00003/pdf00003-descriptor.yaml
+    - assets/pdf00004/pdf00004-descriptor.yaml
+    - assets/pdf00005/pdf00005-descriptor.yaml
+    - assets/pdf00006/pdf00006-descriptor.yaml
+    - assets/pdf00007/pdf00007-descriptor.yaml
+    - assets/pdf00008/pdf00008-descriptor.yaml
+    - assets/pdf00009/pdf00009-descriptor.yaml
   categories:
     - categories/categories-descriptor.yaml
