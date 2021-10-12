@@ -4,7 +4,7 @@ bundle-type: system-level-bundle
 components:
   fragments: []
   assets:
-    - - assets/pdf00000/pdf00000-descriptor.yaml
+      - assets/pdf00000/pdf00000-descriptor.yaml
       - assets/pdf00001/pdf00001-descriptor.yaml
       - assets/pdf00002/pdf00002-descriptor.yaml
       - assets/pdf00003/pdf00003-descriptor.yaml
