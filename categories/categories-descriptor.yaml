@@ -1,0 +1,15 @@
+- code: blue_category
+  parentCode: home
+  titles:
+    en: blue category
+    it: categoria blu
+- code: green_category
+  parentCode: home
+  titles:
+    en: green category
+    it: categoria verde
+- code: red_category
+  parentCode: home
+  titles:
+    en: red category
+    it: categoria rossa
