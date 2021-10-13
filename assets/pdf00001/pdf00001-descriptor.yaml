@@ -1,8 +1,8 @@
 correlationCode: pdf00001
-type: attach
+type: file
 name: pdf00001.pdf
 description: pdf00001 generated asset
 group: free
 categories: 
-  - green_category
+  - red_category
   - blue_category

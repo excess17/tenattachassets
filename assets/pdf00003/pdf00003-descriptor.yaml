@@ -1,7 +1,6 @@
 correlationCode: pdf00003
-type: attach
+type: file
 name: pdf00003.pdf
 description: pdf00003 generated asset
 group: free
-categories: 
-  - blue_category
+categories: []

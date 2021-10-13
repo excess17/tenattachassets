@@ -1,6 +1,7 @@
 correlationCode: pdf00008
-type: attach
+type: file
 name: pdf00008.pdf
 description: pdf00008 generated asset
 group: free
-categories: []
+categories: 
+  - red_category
